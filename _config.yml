@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Binke Zhao"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an undergraduate student majoring in IC design with a track of Computer Architecture."
   location         : "Chengdu, China"
   email            :
