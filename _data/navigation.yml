@@ -1,7 +1,19 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Transcript"
+    url: /year-archive/
+  - title: "Full CV"
+    url: /categories/
+  #- title: "Tags"
+   # url: /tags/
+  - title: "Research Experience"
+    url: /page-archive/
+  - title: "Projects hosted"
+    url: /collection-archive/
+ # - title: "External Link"
+    #url: https://google.com
+    target: _blank
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
