@@ -1,14 +1,16 @@
 # main links
 main:
-  - title: "Transcript"
+  - title: "Standardized test scores."
     url: /rdm/
-  - title: "Full CV"
+  - title: "Education"
     url: /1/
   #- title: "Tags"
    # url: /tags/
   - title: "Research Experience"
     url: /page-archive/
   - title: "Projects hosted"
+    url: /collection-archive/
+  - title: "Social practice."
     url: /collection-archive/
  # - title: "External Link"
     #url: https://google.com
