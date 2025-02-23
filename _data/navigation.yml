@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Transcript"
-    url: /_pages/
+    url: /_pages/rmd
   - title: "Full CV"
     url: /categories/
   #- title: "Tags"
