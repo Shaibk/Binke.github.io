@@ -30,7 +30,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. V
 
 ## Conclusion
 
-For more details on my research, please see [my undergraduate research experience](/research-experience/).
 
 
 Happy testing!
