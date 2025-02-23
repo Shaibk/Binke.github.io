@@ -30,6 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. V
 
 ## Conclusion
 
-Testing is essential to ensure the integration works as expected. For more information, refer to the [Minimal Mistakes documentation](https://mmistakes.github.io/minimal-mistakes/docs/pages/).
+For more details on my research, please see [my undergraduate research experience](/research-experience/).
+
 
 Happy testing!
