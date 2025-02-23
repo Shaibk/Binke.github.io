@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Random Test Document"
-permalink: /test-document/
+permalink: /rdm/
 author: "Jane Doe"
 date: 2025-02-23
 categories: [test, sample]
