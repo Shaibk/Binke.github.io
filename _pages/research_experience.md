@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Undergraduate Research Experience"
-permalink: /research-experience/
+permalink: /research_experience/
 author: "Your Name"
 date: 2025-02-23
 categories: [research, undergraduate]
